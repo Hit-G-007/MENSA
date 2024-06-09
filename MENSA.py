@@ -202,7 +202,7 @@ class MainApp(QMainWindow):
 
     def open_reach_us(self):
         import webbrowser
-        webbrowser.open("https://sites.google.com/view/hytaeschsdexterity/work")
+        webbrowser.open("https://heyguys.my.canva.site/mensa")
 
     def open_feedback(self):
         import webbrowser
