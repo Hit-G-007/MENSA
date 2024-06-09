@@ -4,15 +4,6 @@ MENSA stands for MySQL Enhanced for Navigational Speed and Administration. It is
 MENSA App - README
 Welcome to the MENSA App! This guide provides a comprehensive overview of MENSA (MySQL Enhanced for Navigational Speed and Administration), designed to enhance your experience with MySQL database management.
 
-Table of Contents
-Introduction
-Features
-Getting Started
-Application Overview
-Screenshots
-Troubleshooting
-Feedback
-Introduction
 MENSA is a powerful and intuitive application developed to simplify and enhance the management of MySQL databases. With a user-friendly interface and robust functionality, MENSA provides an efficient way to interact with your databases, perform various operations, and visualize data.
 
 Features
